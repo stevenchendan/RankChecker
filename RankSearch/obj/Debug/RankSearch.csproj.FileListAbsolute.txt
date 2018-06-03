@@ -1,0 +1,166 @@
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\ApplicationInsights.config
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\csc.exe
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\vbc.exe
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\VBCSCompiler.exe
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\RankSearch.dll.config
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\RankSearch.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\RankSearch.pdb
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Antlr3.Runtime.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\EntityFramework.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\EntityFramework.SqlServer.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.Web.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.ApplicationInsights.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Google.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Newtonsoft.Json.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Owin.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Helpers.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Mvc.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Optimization.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Razor.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.WebPages.Deployment.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.WebPages.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.WebPages.Razor.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\WebGrease.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.Web.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.ApplicationInsights.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Helpers.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Mvc.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Optimization.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.Razor.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.WebPages.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.WebPages.Deployment.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\System.Web.WebPages.Razor.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Antlr3.Runtime.pdb
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Newtonsoft.Json.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\EntityFramework.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\EntityFramework.SqlServer.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Google.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\obj\Debug\RankSearch.csprojResolveAssemblyReference.cache
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\obj\Debug\RankSearch.dll
+E:\Program Files\Virtual Studio Project\RankSearch\RankSearch\obj\Debug\RankSearch.pdb
+C:\dev\RankSearch-master\RankSearch\bin\ApplicationInsights.config
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\csc.exe
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\System.Collections.Immutable.dll
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\vbc.exe
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\VBCSCompiler.exe
+C:\dev\RankSearch-master\RankSearch\bin\roslyn\VBCSCompiler.exe.config
+C:\dev\RankSearch-master\RankSearch\bin\RankSearch.dll.config
+C:\dev\RankSearch-master\RankSearch\bin\RankSearch.dll
+C:\dev\RankSearch-master\RankSearch\bin\RankSearch.pdb
+C:\dev\RankSearch-master\RankSearch\bin\Antlr3.Runtime.dll
+C:\dev\RankSearch-master\RankSearch\bin\EntityFramework.dll
+C:\dev\RankSearch-master\RankSearch\bin\EntityFramework.SqlServer.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.Agent.Intercept.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.DependencyCollector.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.Web.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.WindowsServer.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.ApplicationInsights.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AspNet.Identity.Core.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Cookies.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Facebook.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Google.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.OAuth.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Twitter.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\dev\RankSearch-master\RankSearch\bin\Newtonsoft.Json.dll
+C:\dev\RankSearch-master\RankSearch\bin\Owin.dll
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Helpers.dll
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Mvc.dll
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Optimization.dll
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Razor.dll
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.WebPages.Deployment.dll
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.WebPages.dll
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.WebPages.Razor.dll
+C:\dev\RankSearch-master\RankSearch\bin\WebGrease.dll
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.DependencyCollector.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.Web.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AI.WindowsServer.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.ApplicationInsights.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Helpers.xml
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Mvc.xml
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Optimization.xml
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.Razor.xml
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.WebPages.xml
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.WebPages.Deployment.xml
+C:\dev\RankSearch-master\RankSearch\bin\System.Web.WebPages.Razor.xml
+C:\dev\RankSearch-master\RankSearch\bin\Antlr3.Runtime.pdb
+C:\dev\RankSearch-master\RankSearch\bin\Newtonsoft.Json.xml
+C:\dev\RankSearch-master\RankSearch\bin\EntityFramework.xml
+C:\dev\RankSearch-master\RankSearch\bin\EntityFramework.SqlServer.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AspNet.Identity.Core.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Facebook.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Cookies.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.OAuth.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Google.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.Twitter.xml
+C:\dev\RankSearch-master\RankSearch\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\dev\RankSearch-master\RankSearch\obj\Debug\RankSearch.csprojAssemblyReference.cache
+C:\dev\RankSearch-master\RankSearch\obj\Debug\RankSearch.csproj.CoreCompileInputs.cache
+C:\dev\RankSearch-master\RankSearch\obj\Debug\RankSearch.csproj.CopyComplete
+C:\dev\RankSearch-master\RankSearch\obj\Debug\RankSearch.dll
+C:\dev\RankSearch-master\RankSearch\obj\Debug\RankSearch.pdb
